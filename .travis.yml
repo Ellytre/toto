@@ -1,5 +1,2 @@
 language: c
 
-install:
-- bundle install --path vendor/bundle
-- npm install
