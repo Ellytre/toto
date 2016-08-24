@@ -2,3 +2,7 @@ language: c
 
 install:
   - ${CC} main.c
+  
+script:
+  - ls
+  - ./a.out
